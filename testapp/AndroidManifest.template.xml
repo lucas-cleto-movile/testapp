@@ -4,7 +4,7 @@
           android:versionCode="{{version-code}}"
           android:versionName="{{version-name}}" >
 
-  <uses-sdk android:minSdkVersion="23" />
+  <uses-sdk android:minSdkVersion="15" />
 
   <application
       android:name="neko.App"
