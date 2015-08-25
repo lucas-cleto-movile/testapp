@@ -1,6 +1,13 @@
 # testapp logs
 
 ```
+$ java -version
+java version "1.7.0_75"
+Java(TM) SE Runtime Environment (build 1.7.0_75-b13)
+Java HotSpot(TM) 64-Bit Server VM (build 24.75-b04, mixed mode)
+```
+
+```
 $ lein -version
 Leiningen 2.5.2 on Java 1.7.0_75 Java HotSpot(TM) 64-Bit Server VM
 ```
