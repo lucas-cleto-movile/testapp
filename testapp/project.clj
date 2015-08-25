@@ -37,7 +37,7 @@
                 :build-type :release}}]}
 
   :android {;; Specify the path to the Android SDK directory.
-            :sdk-path "/Users/lucas-cleto/Desktop/android-sdk-macosx/"
+            :sdk-path "/Users/lucas-cleto/Desktop/android-sdk-macosx/" ;;SDK path
 
             ;; Try increasing this value if dexer fails with
             ;; OutOfMemoryException. Set the value according to your
